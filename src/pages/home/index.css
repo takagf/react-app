@@ -1,0 +1,11 @@
+body{
+    background: url("/src/background.svg") !important;
+    background-repeat: no-repeat !important;
+    background-position-x: 50% !important;
+    background-position-y: 90% !important;
+    background-size: 120% !important;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 98;
+    background-attachment: fixed !important;
+}
+
