@@ -10827,11 +10827,11 @@
   }
 
   
-  body {
+  body.masthead {
     height: 100%;
     position: relative;
     background-color: #2a5555;
-    background: url("/src/assets/img/bg-mobile-fallback.jpg") #2a5555 no-repeat center center scroll;
+    background: url("/src/assets/img/bg-mobile-fallback.jpg") #2a5555 no-repeat center center scroll ; 
     z-index: 99 !important;
   }
 
